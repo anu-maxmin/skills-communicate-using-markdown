@@ -6,3 +6,5 @@
 
 
 I have commited this file to preview the header tag.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
