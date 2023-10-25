@@ -8,3 +8,12 @@
 I have commited this file to preview the header tag.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
